@@ -1,0 +1,248 @@
+{
+  "profile": {
+    "title": "Unity & .NET Job Tracker",
+    "subtitle": "Argentina · Remote worldwide",
+    "emoji": "🎮"
+  },
+  "keywords": {
+    "include": [
+      "unity developer",
+      "unity programmer",
+      "unity engineer",
+      "unity 3d developer",
+      "unity 2d developer",
+      "unity game developer",
+      "desarrollador unity",
+      "programador unity",
+      "gameplay programmer",
+      "gameplay engineer",
+      "gameplay developer",
+      "game programmer",
+      "game developer",
+      "desarrollador de videojuegos",
+      "programador de videojuegos",
+      "c# developer",
+      "c# programmer",
+      "c# engineer",
+      "c#/.net developer",
+      "c# .net developer",
+      "c# / .net developer",
+      "desarrollador c#",
+      "programador c#",
+      ".net developer",
+      ".net programmer",
+      ".net engineer",
+      "dotnet developer",
+      "asp.net developer",
+      "junior .net",
+      "desarrollador .net",
+      "programador .net",
+      "qa tester",
+      "qa analyst",
+      "qa engineer",
+      "qa junior",
+      "game qa",
+      "game tester",
+      "manual tester",
+      "quality assurance",
+      "tester qa",
+      "analista qa",
+      "tester de videojuegos"
+    ],
+    "exclude": [
+      "intern",
+      "internship",
+      "co-op",
+      "trainee",
+      "pasante",
+      "pasantía",
+      "pasantia",
+      "practicante",
+      "becario",
+      "apprentice",
+      "sr.",
+      "lead",
+      "staff",
+      "principal",
+      "architect",
+      "head of",
+      "director",
+      "manager",
+      "management",
+      "vice president",
+      "supervisor",
+      "gerente",
+      "jefe",
+      "líder",
+      "lider",
+      "coordinador",
+      "game designer",
+      "level designer",
+      "narrative designer",
+      "ui designer",
+      "ux designer",
+      "artist",
+      "animator",
+      "3d modeler",
+      "producer",
+      "community manager",
+      "marketing",
+      "recruiter",
+      "sales",
+      "frontend",
+      "front-end",
+      "devops",
+      "data engineer",
+      "data scientist",
+      "java developer"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "unity developer",
+      "junior unity developer",
+      "unity developer remote",
+      "unity programmer",
+      "gameplay programmer",
+      "gameplay engineer",
+      "game developer",
+      "junior game developer",
+      "game programmer",
+      "c# developer",
+      "junior c# developer",
+      "c# developer remote",
+      ".net developer",
+      "junior .net developer",
+      ".net developer remote",
+      "qa tester",
+      "junior qa tester",
+      "game qa tester",
+      "qa analyst",
+      "desarrollador unity",
+      "programador unity",
+      "desarrollador de videojuegos",
+      "desarrollador c#",
+      "desarrollador .net",
+      "tester qa"
+    ],
+    "indeed": [
+      "unity developer",
+      "gameplay programmer",
+      "game developer",
+      "c# developer",
+      "junior .net developer",
+      "qa tester",
+      "desarrollador unity",
+      "desarrollador .net",
+      "tester qa"
+    ],
+    "glassdoor": [
+      "unity developer",
+      "gameplay programmer",
+      "game developer",
+      "c# developer",
+      "junior .net developer",
+      "qa tester",
+      "desarrollador unity",
+      "desarrollador .net"
+    ],
+    "ziprecruiter": [
+      "unity developer",
+      "gameplay programmer",
+      "game developer",
+      "c# developer",
+      "junior .net developer",
+      "qa tester"
+    ],
+    "google_jobs": [
+      "unity developer",
+      "gameplay programmer",
+      "game developer",
+      "c# developer",
+      "junior .net developer",
+      "qa tester",
+      "desarrollador unity",
+      "desarrollador .net"
+    ],
+    "hiring_cafe": [
+      "unity developer",
+      "gameplay programmer",
+      "game developer",
+      "c# developer",
+      "junior .net developer",
+      "qa tester"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      { "name": "Argentina", "location": "Argentina", "geoId": "" },
+      { "name": "Buenos Aires", "location": "Buenos Aires, Argentina", "geoId": "" },
+      { "name": "Latin America", "location": "Latin America", "geoId": "" },
+      { "name": "Worldwide", "location": "Worldwide", "geoId": "" },
+      { "name": "United States", "location": "United States", "geoId": "" },
+      { "name": "Canada", "location": "Canada", "geoId": "" },
+      { "name": "United Kingdom", "location": "United Kingdom", "geoId": "" },
+      { "name": "Spain", "location": "Spain", "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" },
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "Canada" },
+      { "location": "Remote", "country": "GB" }
+    ],
+    "glassdoor": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" },
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "Canada" },
+      { "location": "Remote", "country": "GB" }
+    ],
+    "ziprecruiter": [
+      { "location": "Remote", "country": "USA" },
+      { "location": "Remote", "country": "Canada" },
+      { "location": "Remote", "country": "GB" }
+    ],
+    "google_jobs": [
+      { "location": "Buenos Aires", "country": "Argentina" },
+      { "location": "Argentina", "country": "Argentina" },
+      { "location": "Remote", "country": "USA" }
+    ],
+    "hiring_cafe": [
+      { "location": "United States" }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [],
+    "exclude": []
+  },
+  "priority_topics": {
+    "terms": [
+      ["Unity", "\\bunity\\b"],
+      ["C#", "c#|c sharp"],
+      [".NET", "\\.net|dotnet"],
+      ["Gameplay", "gameplay"],
+      ["QA / Testing", "\\bqa\\b|tester|quality assurance"]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      ["Gameplay Programmer", "gameplay"],
+      ["Unity Developer", "unity"],
+      [".NET Developer", "\\.net|dotnet"],
+      ["C# Developer", "c#|c sharp"],
+      ["QA Tester", "\\bqa\\b|tester|quality assurance"],
+      ["Game Developer (general)", "game|videojuego"]
+    ]
+  },
+  "notify": { "min_fit": 75 }
+}
