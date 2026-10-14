@@ -1,17 +1,24 @@
+
 {
+  "_README": "Unity, C#/.NET and QA job tracker. Prioritizes Argentina and international remote roles. No paid AI API required for basic scraping.",
+
   "profile": {
-    "title": "Unity & .NET Job Tracker",
-    "subtitle": "Argentina · Remote worldwide",
+    "title": "Unity, .NET & QA Job Tracker",
+    "subtitle": "Argentina · Latin America · Remote worldwide",
     "emoji": "🎮"
   },
+
   "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these terms.",
     "include": [
       "unity developer",
       "unity programmer",
       "unity engineer",
+      "unity game developer",
+      "unity software engineer",
+      "unity gameplay programmer",
       "unity 3d developer",
       "unity 2d developer",
-      "unity game developer",
       "desarrollador unity",
       "programador unity",
       "gameplay programmer",
@@ -19,14 +26,16 @@
       "gameplay developer",
       "game programmer",
       "game developer",
+      "video game developer",
+      "video game programmer",
       "desarrollador de videojuegos",
       "programador de videojuegos",
       "c# developer",
       "c# programmer",
       "c# engineer",
+      "c# software developer",
       "c#/.net developer",
       "c# .net developer",
-      "c# / .net developer",
       "desarrollador c#",
       "programador c#",
       ".net developer",
@@ -34,32 +43,42 @@
       ".net engineer",
       "dotnet developer",
       "asp.net developer",
+      "asp.net core developer",
       "junior .net",
       "desarrollador .net",
       "programador .net",
+      "backend developer",
+      "back-end developer",
+      "software developer",
+      "software engineer",
       "qa tester",
       "qa analyst",
       "qa engineer",
       "qa junior",
+      "quality assurance",
+      "software tester",
+      "manual tester",
+      "manual qa",
       "game qa",
       "game tester",
-      "manual tester",
-      "quality assurance",
+      "video game tester",
+      "qa videojuegos",
       "tester qa",
       "analista qa",
       "tester de videojuegos"
     ],
+
+    "_exclude_comment": "Exclude internships and clearly senior or unrelated roles. Trainee roles are allowed.",
     "exclude": [
       "intern",
       "internship",
       "co-op",
-      "trainee",
       "pasante",
       "pasantía",
       "pasantia",
       "practicante",
       "becario",
-      "apprentice",
+      "senior",
       "sr.",
       "lead",
       "staff",
@@ -81,168 +100,372 @@
       "narrative designer",
       "ui designer",
       "ux designer",
-      "artist",
-      "animator",
       "3d modeler",
-      "producer",
       "community manager",
-      "marketing",
       "recruiter",
       "sales",
-      "frontend",
-      "front-end",
-      "devops",
-      "data engineer",
+      "devops engineer",
       "data scientist",
       "java developer"
-    ]
+    ],
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
   },
+
   "search_terms": {
+    "_comment": "Search queries sent to job boards. Results are subsequently filtered using keywords.include and keywords.exclude.",
+
     "linkedin": [
       "unity developer",
+      "unity programmer",
       "junior unity developer",
       "unity developer remote",
-      "unity programmer",
       "gameplay programmer",
       "gameplay engineer",
       "game developer",
-      "junior game developer",
       "game programmer",
       "c# developer",
       "junior c# developer",
-      "c# developer remote",
       ".net developer",
       "junior .net developer",
-      ".net developer remote",
+      "asp.net core developer",
+      "backend developer c#",
       "qa tester",
       "junior qa tester",
+      "manual qa",
       "game qa tester",
       "qa analyst",
+      "software tester",
       "desarrollador unity",
       "programador unity",
       "desarrollador de videojuegos",
       "desarrollador c#",
       "desarrollador .net",
-      "tester qa"
+      "analista qa"
     ],
+
     "indeed": [
       "unity developer",
       "gameplay programmer",
       "game developer",
       "c# developer",
+      ".net developer",
       "junior .net developer",
+      "asp.net core developer",
       "qa tester",
+      "manual qa",
+      "software tester",
       "desarrollador unity",
       "desarrollador .net",
-      "tester qa"
+      "analista qa"
     ],
+
     "glassdoor": [
       "unity developer",
       "gameplay programmer",
       "game developer",
       "c# developer",
-      "junior .net developer",
+      ".net developer",
       "qa tester",
+      "manual qa",
+      "software tester",
       "desarrollador unity",
       "desarrollador .net"
     ],
+
     "ziprecruiter": [
       "unity developer",
       "gameplay programmer",
       "game developer",
       "c# developer",
-      "junior .net developer",
-      "qa tester"
+      ".net developer",
+      "qa tester",
+      "software tester"
     ],
+
     "google_jobs": [
       "unity developer",
       "gameplay programmer",
       "game developer",
       "c# developer",
       "junior .net developer",
+      "asp.net core developer",
       "qa tester",
+      "manual qa",
       "desarrollador unity",
-      "desarrollador .net"
+      "desarrollador .net",
+      "analista qa"
     ],
+
     "hiring_cafe": [
       "unity developer",
       "gameplay programmer",
       "game developer",
       "c# developer",
-      "junior .net developer",
-      "qa tester"
+      ".net developer",
+      "qa tester",
+      "software tester"
     ]
   },
+
   "locations": {
+    "_comment": "Prioritize Argentina and remote opportunities. International listings may still have country-specific hiring restrictions.",
+
     "linkedin": [
-      { "name": "Argentina", "location": "Argentina", "geoId": "" },
-      { "name": "Buenos Aires", "location": "Buenos Aires, Argentina", "geoId": "" },
-      { "name": "Latin America", "location": "Latin America", "geoId": "" },
-      { "name": "Worldwide", "location": "Worldwide", "geoId": "" },
-      { "name": "United States", "location": "United States", "geoId": "" },
-      { "name": "Canada", "location": "Canada", "geoId": "" },
-      { "name": "United Kingdom", "location": "United Kingdom", "geoId": "" },
-      { "name": "Spain", "location": "Spain", "geoId": "" }
+      {
+        "name": "Argentina",
+        "location": "Argentina",
+        "geoId": ""
+      },
+      {
+        "name": "Buenos Aires",
+        "location": "Buenos Aires, Argentina",
+        "geoId": ""
+      },
+      {
+        "name": "Latin America",
+        "location": "Latin America",
+        "geoId": ""
+      },
+      {
+        "name": "Worldwide Remote",
+        "location": "Worldwide",
+        "geoId": ""
+      },
+      {
+        "name": "United States",
+        "location": "United States",
+        "geoId": ""
+      },
+      {
+        "name": "Canada",
+        "location": "Canada",
+        "geoId": ""
+      },
+      {
+        "name": "United Kingdom",
+        "location": "United Kingdom",
+        "geoId": ""
+      },
+      {
+        "name": "Spain",
+        "location": "Spain",
+        "geoId": ""
+      }
     ],
+
     "indeed": [
-      { "location": "Buenos Aires", "country": "Argentina" },
-      { "location": "Argentina", "country": "Argentina" },
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "Canada" },
-      { "location": "Remote", "country": "GB" }
+      {
+        "location": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "location": "Argentina",
+        "country": "Argentina"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "GB"
+      }
     ],
+
     "glassdoor": [
-      { "location": "Buenos Aires", "country": "Argentina" },
-      { "location": "Argentina", "country": "Argentina" },
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "Canada" },
-      { "location": "Remote", "country": "GB" }
+      {
+        "location": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "location": "Argentina",
+        "country": "Argentina"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "GB"
+      }
     ],
+
     "ziprecruiter": [
-      { "location": "Remote", "country": "USA" },
-      { "location": "Remote", "country": "Canada" },
-      { "location": "Remote", "country": "GB" }
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "Canada"
+      },
+      {
+        "location": "Remote",
+        "country": "GB"
+      }
     ],
+
     "google_jobs": [
-      { "location": "Buenos Aires", "country": "Argentina" },
-      { "location": "Argentina", "country": "Argentina" },
-      { "location": "Remote", "country": "USA" }
+      {
+        "location": "Buenos Aires",
+        "country": "Argentina"
+      },
+      {
+        "location": "Argentina",
+        "country": "Argentina"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
     ],
+
     "hiring_cafe": [
-      { "location": "United States" }
+      {
+        "location": "United States"
+      }
+    ],
+
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+
+  "location_filter": {
+    "_comment": "Location substrings used for post-filtering certain sources. Keep remote and international locations so relevant remote listings are not discarded.",
+    "terms": [
+      "argentina",
+      "buenos aires",
+      "latin america",
+      "latam",
+      "south america",
+      "americas",
+      "worldwide",
+      "global",
+      "anywhere",
+      "remote",
+      "fully remote",
+      "100% remote",
+      "work from anywhere",
+      "distributed",
+      "north america",
+      "united states",
+      "usa",
+      "canada",
+      "united kingdom",
+      "uk",
+      "spain",
+      "europe"
     ]
   },
+
   "google_jobs": {
+    "_comment": "No paid Google Jobs API credentials configured. If the free JobSpy integration is blocked, this source may require a separate provider or may fail.",
     "queries": [],
     "serpapi_api_key": "",
     "oxylabs_username": "",
     "oxylabs_password": ""
   },
+
+  "jobspy": {
+    "proxies": [],
+    "user_agent": ""
+  },
+
   "hiring_cafe": {
     "max_pages": 3
   },
+
   "employers": {
     "priority": [],
     "exclude": []
   },
+
   "priority_topics": {
+    "_comment": "Dashboard priority labels. These are regex patterns matched against job titles.",
     "terms": [
-      ["Unity", "\\bunity\\b"],
-      ["C#", "c#|c sharp"],
-      [".NET", "\\.net|dotnet"],
-      ["Gameplay", "gameplay"],
-      ["QA / Testing", "\\bqa\\b|tester|quality assurance"]
+      [
+        "Unity",
+        "\\bunity\\b"
+      ],
+      [
+        "C#",
+        "c#|c sharp"
+      ],
+      [
+        ".NET",
+        "\\.net|dotnet"
+      ],
+      [
+        "Gameplay",
+        "gameplay"
+      ],
+      [
+        "QA / Testing",
+        "\\bqa\\b|tester|quality assurance|software testing"
+      ],
+      [
+        "Backend",
+        "backend|back-end|asp.net"
+      ]
     ]
   },
+
   "role_categories": {
+    "_comment": "Dashboard role categories, matched against job titles from top to bottom.",
     "terms": [
-      ["Gameplay Programmer", "gameplay"],
-      ["Unity Developer", "unity"],
-      [".NET Developer", "\\.net|dotnet"],
-      ["C# Developer", "c#|c sharp"],
-      ["QA Tester", "\\bqa\\b|tester|quality assurance"],
-      ["Game Developer (general)", "game|videojuego"]
+      [
+        "Unity Developer",
+        "unity"
+      ],
+      [
+        "Gameplay Programmer",
+        "gameplay"
+      ],
+      [
+        ".NET Developer",
+        "\\.net|dotnet|asp.net"
+      ],
+      [
+        "C# Developer",
+        "c#|c sharp"
+      ],
+      [
+        "QA Tester",
+        "\\bqa\\b|tester|quality assurance|software testing"
+      ],
+      [
+        "Backend Developer",
+        "backend|back-end"
+      ],
+      [
+        "Game Developer",
+        "game developer|game programmer|video game"
+      ]
     ]
   },
-  "notify": { "min_fit": 75 }
+
+  "notify": {
+    "_comment": "Optional Pushover notifications. No notifications are sent unless credentials and the relevant workflow configuration are added.",
+    "min_fit": 75,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
 }
