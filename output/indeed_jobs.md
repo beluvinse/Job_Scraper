@@ -1,65 +1,45 @@
 # 🟦 Indeed — Unity, .NET & QA Roles
-*Last updated: 2026-10-15 00:22 UTC*
+*Last updated: 2026-10-15 08:16 UTC*
 
-**9 new role(s)** since last run · 14 total in last 24h
+**6 new role(s)** since last run · 15 total in last 24h
 
-### [Automation QA Engineer (QVAC) (100% remote)](https://ar.indeed.com/viewjob?jk=696ec8cc951ec9c4) — Tether Operations Limited
-- 📍 **Location:** Buenos Aires, B, Argentina
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [Software Engineer - Integration](https://www.indeed.com/viewjob?jk=51a5c043a9a6f295) — Medlogix
-- 📍 **Location:** Lansdale, PA, USA
-- 💰 **Salary:** $80k–$85k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [Software Developer - Level III](https://www.indeed.com/viewjob?jk=0ec21aa2663d6041) — AttainX,Inc
-- 📍 **Location:** Arlington, VA, USA
-- 💰 **Salary:** $120k–$130k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [Software Developer](https://www.indeed.com/viewjob?jk=551a3329929d94b1) — WD Inc
+### [Software Engineer III](https://www.indeed.com/viewjob?jk=7062c0a661e79440) — Recruitics_CH Robinson_Sponsored Jobs_East_Maverick
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $116k–$142k/yr
+- 💰 **Salary:** $103k–$231k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
 
-### [AI-Native Software Engineer - Consultant](https://www.indeed.com/viewjob?jk=81e15c410c50fa30) — XPRIZE Foundation
+### [Software Engineer - 26401](https://www.indeed.com/viewjob?jk=1b957f6e4a01f9c5) — Enverus
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $75–$85/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
 
-### [Associate QA Engineer](https://www.indeed.com/viewjob?jk=15ddc0651e700a51) — Veeva Systems
+### [Software Engineer](https://www.indeed.com/viewjob?jk=17384c32b1cfa250) — Evolent
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $85k–$110k/yr
+- 💰 **Salary:** $112k–$123k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
 
-### [Quality Assurance Analyst - Temporary 1 year](https://ca.indeed.com/viewjob?jk=77f56820178de0d7) — Trew Knowledge Inc.
-- 📍 **Location:** Remote, Canada
-- 💰 **Salary:** $64k–$74k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-14
-
-### [Software Developer](https://uk.indeed.com/viewjob?jk=9c8d8c8dc7559a41) — Leidos
-- 📍 **Location:** Remote, UK
-- 💰 **Salary:** $62k–$79k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=d8bb619012d55a29) — Evolent
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $112k–$123k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
 
-### [Backend Software Engineer](https://uk.indeed.com/viewjob?jk=27e00234eded288c) — System1 Group
-- 📍 **Location:** Remote, UK
+### [Quality Assurance Analyst](https://www.indeed.com/viewjob?jk=307d5edb30b0e029) — Synergy BIS
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $80k–$95k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
+
+### [GIS Software Quality Assurance Engineer](https://www.indeed.com/viewjob?jk=7b46b5cab21c26fc) — Mano Lani
+- 📍 **Location:** Remote, USA
+- 💰 **Salary:** $95k–$120k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-15
