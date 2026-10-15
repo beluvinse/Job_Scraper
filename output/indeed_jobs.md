@@ -1,90 +1,65 @@
 # 🟦 Indeed — Unity, .NET & QA Roles
-*Last updated: 2026-10-14 17:14 UTC*
+*Last updated: 2026-10-15 00:22 UTC*
 
-**14 new role(s)** since last run · 14 total in last 24h
+**9 new role(s)** since last run · 14 total in last 24h
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=eb37fa0930cdbe20) — Foxhole Technology
-- 📍 **Location:** Herndon, VA, USA
-- 💰 **Salary:** $110k–$120k/yr
+### [Automation QA Engineer (QVAC) (100% remote)](https://ar.indeed.com/viewjob?jk=696ec8cc951ec9c4) — Tether Operations Limited
+- 📍 **Location:** Buenos Aires, B, Argentina
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
+
+### [Software Engineer - Integration](https://www.indeed.com/viewjob?jk=51a5c043a9a6f295) — Medlogix
+- 📍 **Location:** Lansdale, PA, USA
+- 💰 **Salary:** $80k–$85k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-13
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=f49b5445eb2ed653) — GridPoint
+### [Software Developer - Level III](https://www.indeed.com/viewjob?jk=0ec21aa2663d6041) — AttainX,Inc
+- 📍 **Location:** Arlington, VA, USA
+- 💰 **Salary:** $120k–$130k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-14
+
+### [Software Developer](https://www.indeed.com/viewjob?jk=551a3329929d94b1) — WD Inc
 - 📍 **Location:** Remote, USA
-- 💰 **Salary:** $135k–$175k/yr
+- 💰 **Salary:** $116k–$142k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=bc697b25cba3ea9b) — OneSource Virtual
+### [AI-Native Software Engineer - Consultant](https://www.indeed.com/viewjob?jk=81e15c410c50fa30) — XPRIZE Foundation
 - 📍 **Location:** Remote, USA
+- 💰 **Salary:** $75–$85/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Sr. Software Developer](https://www.indeed.com/viewjob?jk=15ff6f43356badda) — OneSource Virtual
+### [Associate QA Engineer](https://www.indeed.com/viewjob?jk=15ddc0651e700a51) — Veeva Systems
 - 📍 **Location:** Remote, USA
+- 💰 **Salary:** $85k–$110k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-14
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=d887e6f80107b945) — Humana
-- 📍 **Location:** Nashville, TN, USA
-- 💰 **Salary:** $81k–$110k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [Junior QA Tester – Clinical Data Services](https://www.indeed.com/viewjob?jk=ac6f0ebc5b3b90a3) — Persistent Technology, Inc.
-- 📍 **Location:** Myrtle Point, OR, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [Quality Assurance and Data Tester](https://www.indeed.com/viewjob?jk=88696fbae279e2b0) — Seneca Holdings, LLC
-- 📍 **Location:** Washington, DC, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [QA Engineer - Automation](https://www.indeed.com/viewjob?jk=909bc813c8f94348) — TransUnion
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $74k–$80k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-14
-
-### [QA Analyst – Laboratory Systems / LIMS](https://www.indeed.com/viewjob?jk=d631e4ccb9cd34dc) — Infoorigin Inc
-- 📍 **Location:** Indianapolis, IN, USA
-- 💰 **Salary:** $25–$29/hr
+### [Quality Assurance Analyst - Temporary 1 year](https://ca.indeed.com/viewjob?jk=77f56820178de0d7) — Trew Knowledge Inc.
+- 📍 **Location:** Remote, Canada
+- 💰 **Salary:** $64k–$74k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** contract
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-14
 
-### [Junior Software Engineer — Remote AI Code Review](https://www.indeed.com/viewjob?jk=7962fa5b92f2a426) — AuraOne Human Data
-- 📍 **Location:** Remote, USA
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-13
-
-### [Functional QA Tester ( Manual ) with Guidewire](https://www.indeed.com/viewjob?jk=cc2660461aeb4377) — Derex Technologies inc
-- 📍 **Location:** Trenton, NJ, USA
+### [Software Developer](https://uk.indeed.com/viewjob?jk=9c8d8c8dc7559a41) — Leidos
+- 📍 **Location:** Remote, UK
+- 💰 **Salary:** $62k–$79k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-14
 
-### [Pricefx Quality Assurance Engineer - 1099 Contractor](https://www.indeed.com/viewjob?jk=f4067852a1f09c7e) — Canidium
-- 📍 **Location:** Remote, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-13
-
-### [Intermediate Full-Stack Software Developer (SaaS Healthcare)](https://ca.indeed.com/viewjob?jk=695c4b104ce4ddcf) — MEDFAR Solutions Cliniques
-- 📍 **Location:** Montréal, QC, Canada
+### [Backend Software Engineer](https://uk.indeed.com/viewjob?jk=27e00234eded288c) — System1 Group
+- 📍 **Location:** Remote, UK
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-13
-
-### [QA Engineer](https://ca.indeed.com/viewjob?jk=cf1d62c59146fab1) — BRAINYYACK
-- 📍 **Location:** Remote, Canada
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-13
+- 🕒 **Posted:** 2026-10-14
