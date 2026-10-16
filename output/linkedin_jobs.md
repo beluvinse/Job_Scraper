@@ -1,100 +1,119 @@
 # 🔥 LinkedIn — Unity, .NET & QA Roles
-*Last updated: 2026-10-16 11:22 UTC*
+*Last updated: 2026-10-16 23:37 UTC*
 
-**21 new role(s)** since last run · 22 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4477370146/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $60,200.00/yr - $107,400.00/yr
+### [Quality Assurance Automation Engineer](https://www.linkedin.com/jobs/view/4480536599/) — RCS TECH
+- 📍 **Location:** Latin America
 - 🕒 **Posted:** 2026-10-16
 
-### [QA Tester](https://www.linkedin.com/jobs/view/4477363788/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $61,000.00/yr - $83,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software QA Engineer](https://www.linkedin.com/jobs/view/4479330809/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $105,000 to $154,000 per year
-- 🕒 **Posted:** 2026-10-16
-
-### [QA Engineer](https://www.linkedin.com/jobs/view/4479330820/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4479347038/) — Haystack
-- 📍 **Location:** Virginia, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [QA Engineer](https://www.linkedin.com/jobs/view/4477363518/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Quality Assurance Engineer](https://www.linkedin.com/jobs/view/4477382092/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $72,000.00/yr - $87,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [C# Developer](https://www.linkedin.com/jobs/view/4479339560/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $122,148 to $280,800 USD
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475600009/) — Virtusa
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer - Integration](https://www.linkedin.com/jobs/view/4479347350/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471669606/) — Flatiron Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $129,600.00/yr - $178,200.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Developer -  Level III](https://www.linkedin.com/jobs/view/4479346347/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Developer 2](https://www.linkedin.com/jobs/view/4479339548/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $79,100 to $166,100 per annum
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4479328907/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $138,237 to $171,000 per year
-- 🕒 **Posted:** 2026-10-16
-
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4480327927/) — Sunbound
+### [Software Engineer - Simulation, Fauna](https://www.linkedin.com/jobs/view/4480520866/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4477055764/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $80,000.00/yr - $128,000.00/yr
+### [.Net Developer](https://www.linkedin.com/jobs/view/4480533775/) — TaskVerse
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475662107/) — Haystack
-- 📍 **Location:** New York, NY
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4480531754/) — TaskVerse
+- 📍 **Location:** United States
+- 💰 **Salary:** $82,000 - $92,430
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Developer OnBase](https://www.linkedin.com/jobs/view/4448476321/) — Prominent
+- 📍 **Location:** Nebraska, United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4480536615/) — Slate Auto
+- 📍 **Location:** Washington, United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4479620581/) — DNI (Delaware Nation Industries)
+- 📍 **Location:** Oklahoma City Metropolitan Area
+- 🕒 **Posted:** 2026-10-16
+
+### [Software developer](https://www.linkedin.com/jobs/view/4479614768/) — eTeam
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $50.00/hr - $52.00/hr
+- 🕒 **Posted:** 2026-10-16
+
+### [Quality Assurance Engineer](https://www.linkedin.com/jobs/view/4477723625/) — TekPillar®
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Junior Software Engineer  | $150–$200/hr | Remote](https://www.linkedin.com/jobs/view/4477703590/) — Kavify
+- 📍 **Location:** United States
+- 💰 **Salary:** $150–$200/hr
+- 🕒 **Posted:** 2026-10-16
+
+### [QA Engineer](https://www.linkedin.com/jobs/view/4480544267/) — TaskVerse
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Tester / QA Analyst / Automation Engineer](https://www.linkedin.com/jobs/view/4479625329/) — FINE WineTourism Marketplace Italy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer | DELMIA Apriso (US Citizen)](https://www.linkedin.com/jobs/view/4480540632/) — XDI Solutions
+- 📍 **Location:** United States
 - 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Full Stack Software Engineer 4 - Content Promotion and Distribution](https://www.linkedin.com/jobs/view/4449871690/) — Netflix
+### [.NET Developer](https://www.linkedin.com/jobs/view/4480543602/) — AgileGrid Solutions
 - 📍 **Location:** United States
-- 💰 **Salary:** $250,000.00 - $413,000.00
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471670364/) — Skydance
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480545542/) — AgileGrid Solutions
+- 📍 **Location:** United States
+- 💰 **Salary:** $82,000 - $92,430
+- 🕒 **Posted:** 2026-10-16
+
+### [Sr. Firmware & Embedded Software Engineer](https://www.linkedin.com/jobs/view/4477722579/) — Carrier
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $79,000.00 - $158,000.00 annually
+- 🕒 **Posted:** 2026-10-16
+
+### [Quality Assurance Technician](https://www.linkedin.com/jobs/view/4480554066/) — Kelly Science, Engineering, Technology & Telecom
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $23.00/hr - $23.00/hr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Tester / QA Analyst / Automation Engineer](https://www.linkedin.com/jobs/view/4477724678/) — Jobify : Canada | Dubai | UK | Turkey
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473401171/) — Haystack
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $117,500.00/yr - $222,985.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4474019632/) — Haystack
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474849145/) — AppCard, Inc.
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $225,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4480550383/) — AgileGrid Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Software QA Tester](https://www.linkedin.com/jobs/view/4479617840/) — Input 1
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $33.00 - $40.00/hour
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Tester / QA Analyst / Automation Engineer](https://www.linkedin.com/jobs/view/4479634149/) — Fabo Germany GmbH
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [QA Analyst](https://www.linkedin.com/jobs/view/4480374292/) — Wiraa
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-16
+
+### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4480560398/) — NBCUniversal
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,400.00 - 165,600.00
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4480188748/) — Victory Consulting Firm LLC
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Consultant, Food Safety and Quality Assurance](https://www.linkedin.com/jobs/view/4461699925/) — Intertek
-- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-10-16
