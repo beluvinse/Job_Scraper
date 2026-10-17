@@ -1,52 +1,27 @@
 # 🔥 LinkedIn — Unity, .NET & QA Roles
-*Last updated: 2026-10-17 04:43 UTC*
+*Last updated: 2026-10-17 08:42 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Software Engineer III, iOS - Cal AI](https://www.linkedin.com/jobs/view/4480585347/) — MyFitnessPal
+### [Full Stack .NET Developer, Sr. - WFH](https://www.linkedin.com/jobs/view/4480815302/) — Torentify
 - 📍 **Location:** United States
-- 💰 **Salary:** $135,000 - $165,000
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer III, Android - Cal AI](https://www.linkedin.com/jobs/view/4480579420/) — MyFitnessPal
+### [.Net Developer - Remote Opportunity](https://www.linkedin.com/jobs/view/4480803959/) — Torentify
 - 📍 **Location:** United States
-- 💰 **Salary:** $135,000 - $165,000
+- 💰 **Salary:** $51,800–$74,000
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer II - Growth](https://www.linkedin.com/jobs/view/4480582405/) — BILL
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $130,000—$156,000 USD
+### [Software Engineer- Full Stack](https://www.linkedin.com/jobs/view/4480821264/) — BioSpace
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $66,000 - $158,400
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer, Mobile Web — Dots](https://www.linkedin.com/jobs/view/4479642455/) — OpenAI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $347,000.00/yr - $385,000.00/yr
+### [Software QA Engineer](https://www.linkedin.com/jobs/view/4477770185/) — TekPillar®
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-17
 
-### [Software Quality Assurance Engineer](https://www.linkedin.com/jobs/view/4479654033/) — Peraton
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $66,000 - $106,000
-- 🕒 **Posted:** 2026-10-17
-
-### [Associate, Software Engineering](https://www.linkedin.com/jobs/view/4480587499/) — L3Harris Technologies
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $66,000- $123,000.00
-- 🕒 **Posted:** 2026-10-17
-
-### [.NET Software Engineer](https://www.linkedin.com/jobs/view/4480590397/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
-- 💰 **Salary:** $80000 to $115000
-- 🕒 **Posted:** 2026-10-17
-
-### [.NET Software Engineer](https://www.linkedin.com/jobs/view/4480591347/) — Deloitte
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80000 to $115000
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4479633391/) — Pure
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-17
-
-### [RN - Quality Assurance](https://www.linkedin.com/jobs/view/4479643865/) — Personal Touch Home Health Care Services Inc.
-- 📍 **Location:** Milwaukie, OR
+### [Software Engineer – AI-Enabled Vulnerability Research (SWE3) [D.26.0226]](https://www.linkedin.com/jobs/view/4480818217/) — Dover Networks LLC
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $260k-$285k per year
 - 🕒 **Posted:** 2026-10-17
